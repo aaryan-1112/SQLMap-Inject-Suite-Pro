@@ -54,6 +54,7 @@ SQLMap runs seamlessly in the background, with live output inside the GUI.
 
 <img width="1906" height="1071" alt="guapo" src="https://github.com/user-attachments/assets/f4063e8f-45d2-4cec-b80a-48a7c3bd0499" /><br>
 <img width="2525" height="1298" alt="image" src="https://github.com/user-attachments/assets/5f2cc05c-9d50-4c4b-a3db-c657d8d6f379" /><br>
+<img width="2525" height="1293" alt="image" src="https://github.com/user-attachments/assets/f832f9a7-e2da-44e4-b7b8-21e13f233bbe" /><br>
 
 ---
 
